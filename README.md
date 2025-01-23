@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 </p>
 
 <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JackyChung2003/JackyChung2003/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JackyChung2003/JackyChung2003/output/github-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardcheah/bernardcheah/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardcheah/bernardcheah/output/github-snake.svg" />
       <img alt="github-snake" src="github-snake.svg"  />
 </picture>
 
