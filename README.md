@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 <p>
 <a href="https://www.linkedin.com/in/bernard-cheah-jun-kai-a75658107">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="linkedin.png">
-    <source media="(prefers-color-scheme: light)" srcset="linkedin.png">
+    <source media="(prefers-color-scheme: dark)" srcset="images/linkedin.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/linkedin.png">
     <img alt="Linkedin Icon" width="5%">
   </picture>
 </a>
 <a href="mailto:bernard_cheah18@wysetime.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="email.png">
-    <source media="(prefers-color-scheme: light)" srcset="email.png">
+    <source media="(prefers-color-scheme: dark)" srcset="images/email.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/email.png">
     <img alt="Email Icon" width="5%">
   </picture>
 </a>
