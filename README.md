@@ -53,29 +53,15 @@ Here are some ideas to get you started:
 <p>
 <a href="https://www.linkedin.com/in/bernard-cheah-jun-kai-a75658107">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark-mode.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light-mode.png">
+    <source media="(prefers-color-scheme: dark)" srcset="linkedin.png">
+    <source media="(prefers-color-scheme: light)" srcset="linkedin.png">
     <img alt="Linkedin Icon" width="5%">
   </picture>
 </a>
-<a href="https://instagram.com/code_with_seed?igshid=OGQ5ZDc2ODk2ZA==">
+<a href="mailto:bernard_cheah18@wysetime.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/instagram-dark-mode.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/instagram-light-mode.png">
-    <img alt="Youtube Icon" width="5%">
-  </picture>
-</a>
-<a href="https://instagram.com/code_with_seed?igshid=OGQ5ZDc2ODk2ZA==">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/youtube-dark-mode.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/youtube-light-mode.png">
-    <img alt="Youtube Icon" width="5%">
-  </picture>
-</a>
-<a href="mailto:clashofjacky@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/mail-dark-mode.png">
-    <source media="(prefers-color-scheme: light)" srcset="images/mail-light-mode.png">
+    <source media="(prefers-color-scheme: dark)" srcset="email.png">
+    <source media="(prefers-color-scheme: light)" srcset="email.png">
     <img alt="Email Icon" width="5%">
   </picture>
 </a>
