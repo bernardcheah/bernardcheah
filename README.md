@@ -17,22 +17,21 @@ Here are some ideas to get you started:
 
 
 
-[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Bernard+Cheah.;I+love+building+cool+projects.;As+a+novice,+I'm+eager+to+learn.;Hit+me+up+for+exciting+collaboration!
+[![Typing Animation](https://readme-typing-svg.herokuapp.com?lines=Hi+there!+I'm+Bernard+Cheah.;I+love+building+cool+projects.;As+an+enthusiast,+I'm+eager+to+learn.;Hit+me+up+for+exciting+collaboration!
 )](https://git.io/typing-svg)
 
 <!-- need to make this into gif-->
-<img src="https://komarev.com/ghpvc/?username=bernardcheah&style=flat-square&color=blue" alt="my github badge counter" align="right"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/Made_With_Love-blue?style=flat-square" alt="Made with love" align="right">
-<img alt="Static Badge" src="https://img.shields.io/badge/Author-Jacky-blue?style=flat-square&logo=github&color=blue" alt="Author badge" align="right">
-
+<img src="https://komarev.com/ghpvc/?username=bernardcheah&style=flat-square&color=brightgreen&style=for-the-badge" alt="my github badge counter" align="right"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Made_With_Love-blue?&style=for-the-badge&color=ff69b4" alt="Made with love" align="right">
+<img alt="Static Badge" src="https://img.shields.io/badge/Author-Bernard-violet?logo=github&color=blue&style=for-the-badge" alt="Author badge" align="right">
 
 <!-- If want add banner can add here -->
  
 ### About: 
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/Img-using-computer-dark-mode.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="images/Img-using-computer-light-mode.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="images/profile.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="images/profile.jpg">
     <img alt="Image using computer" width="45%" align="right">
 </picture>
 
@@ -70,7 +69,7 @@ Here are some ideas to get you started:
 <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bernardcheah/bernardcheah/output/github-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bernardcheah/bernardcheah/output/github-snake.svg" />
-      <img alt="github-snake" src="github-snake.svg"  />
+      <img alt="github-snake" src="github-snake.svg" align="center" />
 </picture>
 
 
