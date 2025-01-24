@@ -30,19 +30,18 @@ Here are some ideas to get you started:
 ### About: 
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/profile.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="images/profile.jpg">
-    <img alt="Image using computer" width="45%" align="right">
+    <source media="(prefers-color-scheme: dark)" srcset="images/computer.png">
+    <source media="(prefers-color-scheme: light)" srcset="images/computer.png">
+    <img alt="Image using computer" width="46%" align="right">
 </picture>
 
 <ul>
     <li> 🔭 I’m currently working on <strong>cutting-edge AI-powered video analytics systems</strong> and <strong>pioneering solutions for real-time insights</strong> at <a href="https://www.wysetime.com">Wysetime Technologies</a>.</li>
-    <li> 🌱 I’m currently learning about <strong>AI workload optimization on various platforms</strong> and <strong>fine-tuning deep learning pipelines for production-ready performance</strong>.</li>
+    <li> 🌱 I’m currently learning about <strong>AI workload optimization on various platforms</strong> for <strong>production-ready performance</strong>.</li>
     <li> 👯 I’m looking to collaborate on <strong>open-source projects in AI, computer vision, and microservice architectures</strong>.</li>
-    <li> 🤔 I’m looking for help with <strong>deploying AI workloads across platforms and optimizing deep learning pipelines</strong>.</li>
-    <li> 💬 Ask me about <strong>AI in production, Flask microservices, video analytics, or designing scalable machine learning solutions</strong>.</li>
+    <li> 💬 Ask me about <strong>AI in production, video analytics, or designing scalable machine learning solutions</strong>.</li>
     <li> 📫 How to reach me: <a href="mailto:bernard_cheah18@wysetime.com"><strong>bernard_cheah18@wysetime.com</strong></a></li>
-    <li> 😄 Pronouns: <strong>Code Whisperer / Bug Slayer</strong> (but also They/Them, He/Him, or She/Her—whatever keeps the commits coming!)</li>
+    <li> 😄 Pronouns: <strong>Code Whisperer / Bug Slayer</strong></li>
     <li> ⚡ Fun fact: <strong>I can spend hours tweaking models for 1% more accuracy, but my coffee always gets cold while I’m at it!</strong></li>
 </ul>
 
